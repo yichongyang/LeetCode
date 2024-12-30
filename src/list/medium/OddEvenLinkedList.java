@@ -1,6 +1,6 @@
 package list.medium;
 
-import array.medium.ListNode;
+import list.medium.ListNode;
 
 /**
  * Given the head of a singly linked list, group all the nodes with odd indices together followed by the nodes with even indices,
